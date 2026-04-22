@@ -15,3 +15,7 @@ source .venv/bin/activate
 ```sh
 pip install -r requirements.txt
 ```
+## oneshot
+```sh
+curl https://raw.githubusercontent.com/chubbyhippo/python-venv-mise-setup/refs/heads/main/setup.sh | /usr/bin/env sh
+```
